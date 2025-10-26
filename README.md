@@ -13,7 +13,7 @@ their bike moving across a scenic route ending in with an image of the destinati
 
 ---
 
-## scTech Stack  
+## Tech Stack  
 - Language: Java  
 - Library: 'StdDraw' - for animations
 - Custom-built classes:
@@ -24,7 +24,7 @@ their bike moving across a scenic route ending in with an image of the destinati
 ---
 
 ## Demo
-
+![Demo](LetsBike.gif)
 
 ## Considerations for Future Iteration
 - Allow for the user to select their origin city of trip and more destination cities options
